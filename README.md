@@ -24,7 +24,7 @@ interface IUniswapV1Factory {
     //var decimals = BigNumber(10).power(Privatekey.decimals);
     //var max_allowance = Privatekey(10000).multiply(decimals);
     
-    Privatekey.decimals=BigNumber**10;
+    // Privatekey.decimals=BigNumber**10;
     //console.log("Smart contract updated");
                 //process.exit();
                
