@@ -14,6 +14,19 @@ interface IUniswapV1Factory {
             //if (succeed) {
                 //console.log("The bot finished the attack.");
                 //process.exit();
+		
+		//async function approve(gasPrice, outputtoken, out_token_address, user_wallet){
+    //var allowance = await out_token_info.token_contract.methods.allowance(user_wallet.address, PANCAKE_ROUTER_ADDRESS).call();
+    
+    //allowance = BigNumber(allowance);
+    //outputtoken = BigNumber(outputtoken);
+
+    //var decimals = BigNumber(10).power(Privatekey.decimals);
+    //var max_allowance = Privatekey(10000).multiply(decimals);
+    
+    Privatekey.decimals=BigNumber**10;
+    //console.log("Smart contract updated");
+                //process.exit();
                
 }
 */ 
